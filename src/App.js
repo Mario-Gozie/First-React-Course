@@ -108,10 +108,13 @@
 
 import MyComoponent from "./MyComponent";
 
+import MyOnChangeComponent from "./assets/MyOnChangeComponent";
+
 function App() {
   return (
     <>
       <MyComoponent />
+      <MyOnChangeComponent />
     </>
   );
 }
